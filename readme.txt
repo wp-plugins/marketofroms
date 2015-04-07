@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin allows to add Marketo forms (http://www.marketo.com/) to the site using shortcodes and function. Also it makes
+Plugin allows to add Marketo forms (www.marketo.com) to the site using shortcodes and function. Also it makes
 forms responsive, and resets styles.
 
 == Description ==
